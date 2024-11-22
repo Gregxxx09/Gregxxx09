@@ -1,9 +1,16 @@
-## Hi there 👋
+## Hi there 👋 
+
+meu nome é Gregory Gaiovicz
+
+- estou estudando na alura
+- estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+gaiovicz.gregory@escola.pr.gov.br
 
 <!--
 **Gregxxx09/Gregxxx09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media1.tenor.com/m/QXVs4QWLlzkAAAAC/spider-man.gif)
